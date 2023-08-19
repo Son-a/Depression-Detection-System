@@ -16,8 +16,6 @@ $ python server.py
    - Password :admin
    - *Note : Username and password can be chnaged in server.py file
 
-### Demo
-link : https://youtu.be/CucCcR7J-yc
 
 ![](static/scrn1.png)
 
